@@ -1,4 +1,4 @@
 playground.py
 __pycache__
-tests/
 mathobj/__pycache__
+.pytest_cache
