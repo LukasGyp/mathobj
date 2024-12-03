@@ -1,2 +1,4 @@
 playground.py
-__pychache__
+__pycache__
+tests/
+mathobj/__pycache__
